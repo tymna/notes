@@ -1,0 +1,24 @@
+problem:
+- when balance is private, it is represented as a `set of notes`. Like a physical cash, we just have a lot of bills. So to modify balance we must loop through this notes and make operations.![[Pasted image 20260521081836.png]]
+- so if i need 11, I can just add two notes and mark them as used
+- but if i need 22, i need to add 13 + 10 and later, sub 1 and leave this 1 on my balance
+- so to optimize this algorithm we can use recursion
+- basically, I just claculate+write how much I must have left, and how much the recepient will have is a simple add
+- ![[Pasted image 20260521082645.png|357]]
+- we are recursively trying to consume Needed amount of notes. 
+	- 1st try, consumed 10/25, remaining_amount is 15, so we continue with new parameters for substract_balance
+	- 2nd try, 15/25
+	- 3rd try, remaining_amount=10, we try to consume, if balance=0 (no more notes left)=> revert all this execution from begining
+		- but if enough, we try final; if consumed_amount >= amount (for example, we consumed 10 directly, or 13). This 3 will be added as change and execution is finished. Notes are added to recepient balance.
+- so recursion happens in one call and that means that everything happens in one call. We cant consume more or less, it just proceeds in chunks
+- why we need this `max_notes` in `substract_balance` -> `_decrease_private_balance`?
+	- INITIAL_TRANSFER_MAX_NOTES
+	- RECURSIVE_TRANSFER_MAX_NOTES
+	- why i use 2 different values, if recursion happens inside
+	- in `_decrease_private_balance` i pass INITIAL_TRANSFER_MAX_NOTES
+	- inside i call `_substract_balance` which uses INITIAL_TRANSFER_MAX_NOTES
+	- but when doing recursion inside `_substract_balance` recurse_substract_balance_internal uses RECURSIVE_TRANSFER_MAX_NOTES
+	- INITIAL_TRANSFER_MAX_NOTES is a value for try_sub in first call, but when recursion it'll start to use  `_substract_balance` with RECURSIVE_TRANSFER_MAX_NOTES
+	- so first we try with most optimized amount, after we loop through 8 vals and decrement if needed
+	- sub function uses 16. Our function first uses 2 after uses 8
+- what was the problem before with that prev function?

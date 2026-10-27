@@ -1,0 +1,2 @@
+- it creates an economic incentive to control block production across multiple domains
+- so now it is not only centralized block production on one chain ([[big-block-less-decentralization]]), but across multiple [[blockchains]] (domains)

@@ -1,0 +1,1 @@
+- relies on eliptic curves [[eliptic curve cryptography in Ethereum]]

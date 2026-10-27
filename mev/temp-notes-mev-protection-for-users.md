@@ -1,0 +1,3 @@
+- slippage (would that be profitable to the bot?)
+- have minimum amount received (for swaps), calculated off-chain, not the same tx => [[2-step-deposit-withdraw-model]]
+- private mempool [[flashbots]]

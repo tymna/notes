@@ -1,0 +1,8 @@
+- providers.tsx - logic of the embedded wallet that we create
+	- embeddedWallets: type Eth/Sol, is signing needed
+	- defaultChain
+	- supportedChains
+	- loginMethods:
+	- appearance: theme, accentColor, logo, walletList (available external wallets)
+- add 'UserPill' to page.tsx as a wallet button
+- connect Privy to wagmi

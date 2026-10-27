@@ -1,0 +1,2 @@
+ - post - add row + send email
+ - get - click on link (API, receive confirmation and update row

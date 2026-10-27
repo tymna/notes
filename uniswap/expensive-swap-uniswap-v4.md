@@ -1,0 +1,2 @@
+- when doing a swap, we move a tick
+- and for each tick we calculate fees (loop), to accurately distribute the fees

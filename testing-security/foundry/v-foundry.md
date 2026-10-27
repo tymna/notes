@@ -1,0 +1,4 @@
+	 -v basic basic logs
+	 -vv console
+	 -vvv exec traces
+	 -vvvv max verbosity

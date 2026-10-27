@@ -1,0 +1,1 @@
+- no impermanent loss on [[aave]]

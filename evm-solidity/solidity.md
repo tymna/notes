@@ -1,0 +1,2 @@
+- object-oriented programming language
+- contract ~ class

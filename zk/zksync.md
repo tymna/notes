@@ -1,0 +1,2 @@
+- has native [[account abstraction (EIP-4337)]]
+- every address = smart contract

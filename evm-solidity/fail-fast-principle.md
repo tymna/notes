@@ -1,0 +1,1 @@
+- stop the current operation as soon as any error occurs

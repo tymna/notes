@@ -1,0 +1,2 @@
+- done by agents
+- HOW TO PROVE an automated research: [[formal verification]]

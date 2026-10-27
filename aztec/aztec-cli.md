@@ -1,0 +1,6 @@
+- `aztec` compiler
+- `aztec-up` version
+- `aztec-wallet`
+- `aztec-forge`, `aztec-cast`, `aztec-anvil`, `aztec-chisel`
+- `aztec-bb`
+- `aztec-nargo`

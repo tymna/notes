@@ -1,0 +1,781 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "ww8F5sAa",
+      "type": "text",
+      "x": 914.4132968772741,
+      "y": -13.794867020420554,
+      "width": 154.05987548828125,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aO",
+      "roundness": null,
+      "seed": 2108703933,
+      "version": 232,
+      "versionNonce": 24799389,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1791962929181,
+      "locked": false,
+      "text": "API job here is:\n- job submission\n- status\n- history\n- auth",
+      "rawText": "API job here is:\n- job submission\n- status\n- history\n- auth",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "API job here is:\n- job submission\n- status\n- history\n- auth",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null,
+      "hasTextLink": false,
+      "link": null
+    },
+    {
+      "id": "c0mW2Igw",
+      "type": "text",
+      "x": -669.9085309696379,
+      "y": 176.84345076390335,
+      "width": 368.63970947265625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aU",
+      "roundness": null,
+      "seed": 900692659,
+      "version": 197,
+      "versionNonce": 870675315,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1791963355320,
+      "locked": false,
+      "text": "thin asynchronous orchestration layer",
+      "rawText": "thin asynchronous orchestration layer",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "thin asynchronous orchestration layer",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null,
+      "hasTextLink": false,
+      "link": null
+    },
+    {
+      "id": "C65NB9Ls",
+      "type": "text",
+      "x": -582.9729125542028,
+      "y": 300.04185742113316,
+      "width": 250.89981079101562,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aV",
+      "roundness": null,
+      "seed": 1719263165,
+      "version": 291,
+      "versionNonce": 203387571,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1791963355762,
+      "locked": false,
+      "text": "untrusted execution layer",
+      "rawText": "untrusted execution layer",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "untrusted execution layer",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null,
+      "hasTextLink": false,
+      "link": null
+    },
+    {
+      "id": "7NV3kESsNNRHylnneRkaT",
+      "type": "freedraw",
+      "x": -254.27700133809617,
+      "y": 126.58857972569456,
+      "width": 28.932414548715997,
+      "height": 75.40360359405781,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aX",
+      "roundness": null,
+      "seed": 1296795987,
+      "version": 145,
+      "versionNonce": 1325058803,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1791963354202,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0.21642929270865352
+        ],
+        [
+          0,
+          2.9682820249997803
+        ],
+        [
+          -1.1363014164060132,
+          9.391621464850004
+        ],
+        [
+          -3.0378213664071154,
+          15.706841517717862
+        ],
+        [
+          -5.364436263024345,
+          23.591173942722776
+        ],
+        [
+          -5.689127831773135,
+          25.693643537516436
+        ],
+        [
+          -5.951900808857886,
+          27.425173138556943
+        ],
+        [
+          -6.925880255732409,
+          29.51992672423546
+        ],
+        [
+          -8.750097225525224,
+          32.59632813621772
+        ],
+        [
+          -10.70572449870349,
+          36.105588133617175
+        ],
+        [
+          -12.676783790111813,
+          39.64580742684859
+        ],
+        [
+          -14.616931415373983,
+          43.37159197632843
+        ],
+        [
+          -16.22471909245826,
+          46.20841606825695
+        ],
+        [
+          -17.260521871624974,
+          47.777528440394235
+        ],
+        [
+          -17.77839944636537,
+          48.83652687659196
+        ],
+        [
+          -17.902093740635678,
+          49.60174541018705
+        ],
+        [
+          -17.902093740635678,
+          50.166061928675504
+        ],
+        [
+          -18.450882981522227,
+          51.31774773362565
+        ],
+        [
+          -19.293452125011413,
+          53.30428667294996
+        ],
+        [
+          -19.880916670844954,
+          55.02800500550359
+        ],
+        [
+          -20.40651025470038,
+          56.388404094047246
+        ],
+        [
+          -20.908955811210717,
+          57.640683795608425
+        ],
+        [
+          -21.17177641798139,
+          58.28225566461913
+        ],
+        [
+          -21.17177641798139,
+          58.69187096331939
+        ],
+        [
+          -21.17177641798139,
+          59.062906216444276
+        ],
+        [
+          -21.17177641798139,
+          59.56539940264054
+        ],
+        [
+          -21.434549395066142,
+          60.43883258258995
+        ],
+        [
+          -21.95247459949246,
+          61.49011500967265
+        ],
+        [
+          -22.215295206263136,
+          62.55673419561367
+        ],
+        [
+          -21.859691971368306,
+          63.43797864404985
+        ],
+        [
+          -20.97077914350291,
+          64.18004915029985
+        ],
+        [
+          -19.911828336990993,
+          64.81390501019553
+        ],
+        [
+          -18.852829900793267,
+          65.25447960472775
+        ],
+        [
+          -17.79387909428135,
+          65.50958420238328
+        ],
+        [
+          -17.082720254177502,
+          65.76459354066719
+        ],
+        [
+          -16.062397122926768,
+          66.2438434401464
+        ],
+        [
+          -13.21785702188322,
+          67.217775257335
+        ],
+        [
+          -9.283454448181715,
+          68.53959430030352
+        ],
+        [
+          -5.488130557294653,
+          69.82273803832493
+        ],
+        [
+          -2.5585714669277877,
+          71.036342434939
+        ],
+        [
+          -0.9507837898435127,
+          71.88653232817148
+        ],
+        [
+          0.10821464635421307,
+          72.31939091358868
+        ],
+        [
+          1.0280391403657632,
+          72.60545480707628
+        ],
+        [
+          1.6386993432303143,
+          72.85274813624505
+        ],
+        [
+          1.8551286359388541,
+          73.19291935290983
+        ],
+        [
+          2.34981055364824,
+          73.4402126820786
+        ],
+        [
+          3.370133684898974,
+          73.71074929796441
+        ],
+        [
+          4.738296412243585,
+          74.2596337982227
+        ],
+        [
+          6.10645913958831,
+          74.83928707556936
+        ],
+        [
+          6.717119342452861,
+          75.40360359405781
+        ],
+        [
+          6.717119342452861,
+          75.40360359405781
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      },
+      "hasTextLink": false
+    },
+    {
+      "id": "97nJKT0TWN4LbaeeIf6Zz",
+      "type": "freedraw",
+      "x": -238.72481341048075,
+      "y": 275.5098418710969,
+      "width": 33.82531692137604,
+      "height": 69.50571484900524,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aZ",
+      "roundness": null,
+      "seed": 2108282909,
+      "version": 96,
+      "versionNonce": 287503283,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1791963351477,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -0.21642929270853983,
+          0
+        ],
+        [
+          -1.0357551494807922,
+          0
+        ],
+        [
+          -3.223291363283579,
+          0.01543201823005802
+        ],
+        [
+          -6.5316017158903605,
+          0.6878679237009919
+        ],
+        [
+          -10.009997676829585,
+          2.682218131512059
+        ],
+        [
+          -13.442002323706788,
+          6.067831464327128
+        ],
+        [
+          -17.376404897408293,
+          11.988772977353051
+        ],
+        [
+          -21.380442071888865,
+          18.62863696928366
+        ],
+        [
+          -24.68875242449576,
+          23.815319244546345
+        ],
+        [
+          -27.29366757579976,
+          27.77286984559305
+        ],
+        [
+          -28.368098030227543,
+          29.612614092987883
+        ],
+        [
+          -28.437685001320688,
+          30.091768733095364
+        ],
+        [
+          -29.048345204185352,
+          30.717908583875897
+        ],
+        [
+          -30.486047272937185,
+          32.01648434012736
+        ],
+        [
+          -32.20204959637579,
+          33.43880202033506
+        ],
+        [
+          -33.32287136486576,
+          34.53638050210816
+        ],
+        [
+          -33.82531692137604,
+          35.54127161512872
+        ],
+        [
+          -33.82531692137604,
+          36.02052151460805
+        ],
+        [
+          -32.542173183354635,
+          36.26009883466179
+        ],
+        [
+          -30.31600929429078,
+          37.35005656669148
+        ],
+        [
+          -27.966151110956503,
+          39.37527081096289
+        ],
+        [
+          -25.160286314859945,
+          42.18113560705933
+        ],
+        [
+          -21.82873267553623,
+          45.51264161669724
+        ],
+        [
+          -17.99482873907391,
+          49.447044190398856
+        ],
+        [
+          -13.442002323706788,
+          54.59505116071455
+        ],
+        [
+          -8.719137929693147,
+          60.08322934769501
+        ],
+        [
+          -5.18663464557676,
+          64.218629195875
+        ],
+        [
+          -3.238723381513637,
+          66.81578070837804
+        ],
+        [
+          -1.9787753005233526,
+          68.50863500447144
+        ],
+        [
+          -1.0976261114589079,
+          69.50571484900524
+        ],
+        [
+          -1.0976261114589079,
+          69.50571484900524
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "strokeOptions": {
+        "variability": "constant",
+        "streamline": 0.5
+      },
+      "hasTextLink": false
+    },
+    {
+      "id": "eAuLwM97",
+      "type": "text",
+      "x": -210.91093122689017,
+      "y": -31.809537063638345,
+      "width": 744.7595825195312,
+      "height": 700,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aa",
+      "roundness": null,
+      "seed": 157138771,
+      "version": 105,
+      "versionNonce": 741235165,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1791964675328,
+      "locked": false,
+      "text": "upload Solidity project\n        |\n        v\nFastAPI backend          1. POST /v1/jobs/start → saves job in Postgres,\n        |                   stores zip + API key in Secrets Service\n        v\nJob queue (RabbitMQ)     2. holds the job message\n        |\n        v\nInstancer                3. picks up the message, starts one container per job\n        |\n        v\nworker container         4. fetches bundle → unzips contracts to audit/\n        |                   → copies detect.md to AGENTS.md\n        v\nCodex agent              5. reads AGENTS.md, audits audit/ (max 3h)\n        |\n        v\nsubmission/audit.md      6. findings as JSON {\"vulnerabilities\": [...]}\n        |\n        v\nworker check             7. \"is it valid JSON?\" → upload\n        |\n        v\nResults Service          8. parses again → saves to Postgres\n        |\n        v\nVulnerability report     9. frontend polls status → renders JSON as report",
+      "rawText": "upload Solidity project\n        |\n        v\nFastAPI backend          1. POST /v1/jobs/start → saves job in Postgres,\n        |                   stores zip + API key in Secrets Service\n        v\nJob queue (RabbitMQ)     2. holds the job message\n        |\n        v\nInstancer                3. picks up the message, starts one container per job\n        |\n        v\nworker container         4. fetches bundle → unzips contracts to audit/\n        |                   → copies detect.md to AGENTS.md\n        v\nCodex agent              5. reads AGENTS.md, audits audit/ (max 3h)\n        |\n        v\nsubmission/audit.md      6. findings as JSON {\"vulnerabilities\": [...]}\n        |\n        v\nworker check             7. \"is it valid JSON?\" → upload\n        |\n        v\nResults Service          8. parses again → saves to Postgres\n        |\n        v\nVulnerability report     9. frontend polls status → renders JSON as report",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "upload Solidity project\n        |\n        v\nFastAPI backend          1. POST /v1/jobs/start → saves job in Postgres,\n        |                   stores zip + API key in Secrets Service\n        v\nJob queue (RabbitMQ)     2. holds the job message\n        |\n        v\nInstancer                3. picks up the message, starts one container per job\n        |\n        v\nworker container         4. fetches bundle → unzips contracts to audit/\n        |                   → copies detect.md to AGENTS.md\n        v\nCodex agent              5. reads AGENTS.md, audits audit/ (max 3h)\n        |\n        v\nsubmission/audit.md      6. findings as JSON {\"vulnerabilities\": [...]}\n        |\n        v\nworker check             7. \"is it valid JSON?\" → upload\n        |\n        v\nResults Service          8. parses again → saves to Postgres\n        |\n        v\nVulnerability report     9. frontend polls status → renders JSON as report",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null,
+      "hasTextLink": false
+    },
+    {
+      "id": "qM7HmlZi",
+      "type": "text",
+      "x": -235.36496702436136,
+      "y": -32.709226204485276,
+      "width": 218.8998565673828,
+      "height": 625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aM",
+      "roundness": null,
+      "seed": 198161181,
+      "version": 22,
+      "versionNonce": 1022136221,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1791964670118,
+      "locked": false,
+      "text": "upload Solidity project\n        |\n        v\nFastAPI backend\n        |\n        v\nJob queue (RabbitMq)\n        |\n        v\nisolated worker\n        |\n        v\n    container\n        |\n        v\nCodex agent\n        |\n        v\naudit.md\n        |\n        v\nResults validation\n        |\n        v\nVulnerability report",
+      "rawText": "upload Solidity project\n        |\n        v\nFastAPI backend\n        |\n        v\nJob queue (RabbitMq)\n        |\n        v\nisolated worker\n        |\n        v\n    container\n        |\n        v\nCodex agent\n        |\n        v\naudit.md\n        |\n        v\nResults validation\n        |\n        v\nVulnerability report",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "upload Solidity project\n        |\n        v\nFastAPI backend\n        |\n        v\nJob queue (RabbitMq)\n        |\n        v\nisolated worker\n        |\n        v\n    container\n        |\n        v\nCodex agent\n        |\n        v\naudit.md\n        |\n        v\nResults validation\n        |\n        v\nVulnerability report",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null,
+      "hasTextLink": false,
+      "link": null
+    },
+    {
+      "id": "LK0H1Xxq",
+      "type": "text",
+      "x": 4.783091144293394,
+      "y": 43.32000833984313,
+      "width": 778.3794555664062,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aN",
+      "roundness": null,
+      "seed": 273758547,
+      "version": 85,
+      "versionNonce": 1102985853,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1791964668932,
+      "locked": false,
+      "text": "📍1. User uploads repo via frontend with POST /v1/jobs/start on [[FastAPI]]",
+      "rawText": "1. User uploads repo via frontend with POST /v1/jobs/start on [[FastAPI]]",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "📍1. User uploads repo via frontend with POST /v1/jobs/start on [[FastAPI]]",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null,
+      "hasTextLink": true,
+      "link": null
+    },
+    {
+      "id": "ZhYq006Q",
+      "type": "text",
+      "x": 21.439139343704483,
+      "y": 120.20905211268388,
+      "width": 878.8193969726562,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aQ",
+      "roundness": null,
+      "seed": 1673959603,
+      "version": 190,
+      "versionNonce": 1815508947,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1791964668932,
+      "locked": false,
+      "text": "2. It puts a message in the queue and a worker picks it and starts an isolated container.",
+      "rawText": "2. It puts a message in the queue and a worker picks it and starts an isolated container.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "2. It puts a message in the queue and a worker picks it and starts an isolated container.",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null,
+      "hasTextLink": false,
+      "link": null
+    },
+    {
+      "id": "U3zevUEF",
+      "type": "text",
+      "x": -41.54264258842426,
+      "y": 232.2867113202899,
+      "width": 470.2196960449219,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aR",
+      "roundness": null,
+      "seed": 431866845,
+      "version": 301,
+      "versionNonce": 1919673053,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1791964668932,
+      "locked": false,
+      "text": "3. Inside container runs the code (for each job)",
+      "rawText": "3. Inside container runs the code (for each job)",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "3. Inside container runs the code (for each job)",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null,
+      "hasTextLink": false,
+      "link": null
+    },
+    {
+      "id": "mj8zjmMu",
+      "type": "text",
+      "x": 8.7082953758609,
+      "y": 305.10217834226205,
+      "width": 211.2998809814453,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aS",
+      "roundness": null,
+      "seed": 24390035,
+      "version": 423,
+      "versionNonce": 618530163,
+      "isDeleted": true,
+      "boundElements": [],
+      "updated": 1791964668932,
+      "locked": false,
+      "text": "4. Copies AGENTS.md",
+      "rawText": "4. Copies AGENTS.md",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "4. Copies AGENTS.md",
+      "autoResize": true,
+      "lineHeight": 1.25,
+      "labelPosition": null,
+      "hasTextLink": false,
+      "link": null
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": null
+  },
+  "files": {}
+}

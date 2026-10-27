@@ -1,0 +1,2 @@
+- if nonce is reused, Private Key could be computed
+- so signature must be unique every time

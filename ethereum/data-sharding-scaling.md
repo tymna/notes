@@ -1,0 +1,3 @@
+- [[rollups-scaling]] = execute txs elsewhere
+- sharding = increase Ethereum's data capacity => rollups can publish more data
+- so rollups can process more txs at lower cost

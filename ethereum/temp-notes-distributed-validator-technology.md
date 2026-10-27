@@ -1,0 +1,1 @@
+single machine -> committee of machines that share the key and sign together

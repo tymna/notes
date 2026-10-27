@@ -1,0 +1,3 @@
+- [[uniswap-v2]]: reserves could not be 0, because curve does not touch the axis
+- [[uniswap-v3]]+[[uniswap-v4]]: curve must be finite
+	- if curve is finite it can be broken up into sections

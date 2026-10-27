@@ -1,0 +1,3 @@
+- a lot of cons, but pros:
+- for example - Base
+- sequencer is operated by reputable entity, so it can have a policy to minimize harmful [[MEV]]

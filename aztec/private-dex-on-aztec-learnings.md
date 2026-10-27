@@ -1,0 +1,8 @@
+- partial notes - begin in private, finish in public, move back to private
+- u128 which we must convert to u256 not to overflow when calculating shares
+- makefiles are really convenient, easier to remember and read
+- [[frontend aztec]] is hard, so need to write down the setup for the next time
+- first test and setup - myself, the rest of the tests follow the same pattern
+- init in struct, not in separate state variable (struct - 1 storage slot)
+- local env for deployment test, frontend dev (and ts tests also)
+- embedded wallet for local tests

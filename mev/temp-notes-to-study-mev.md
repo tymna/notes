@@ -1,0 +1,10 @@
+- ~~[Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest/) by Dan Robinson & Georgios Konstantopoulos~~
+- ~~[How to get Front-Run on Ethereum mainnet](https://youtu.be/UZ-NNd6yjFM) by Scott Bigelow~~
+- [Escaping the Dark Forest](https://samczsun.com/escaping-the-dark-forest/) by samczsun
+- [Frontrunning in DEXs, Miner Extractable Value, and Consensus Instability](https://youtu.be/vR1v7AQ8i3k) by Phil Daian at IEEE Symposium on Security and Privacy
+- [Flashbots: Frontrunning the MEV Crisis](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752) by Flashbots
+- [ETHOnline - Phil & Georgios Talk Miner Extractable Value](https://youtu.be/tv0CkmcoGkM)
+- [Quantifying MEV: Introducing MEV-Explore v0](https://medium.com/flashbots/quantifying-mev-introducing-mev-explore-v0-5ccbee0f6d02) by Flashbots
+
+1. https://www.galaxy.com/insights/research/mev-how-flashboys-became-flashbots
+2. https://www.galaxy.com/insights/research/mev-the-rise-of-the-builders

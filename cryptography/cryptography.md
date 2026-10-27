@@ -1,0 +1,9 @@
+- Encryption
+	- Symmetric (one key)
+	- Asymmetric cryptography
+		- ECC (Elliptic Curve Cryptography)
+- Hash functions
+- Zero-knowledge systems
+- Commitment schemes
+- VRFs
+- Homomorphic encryption

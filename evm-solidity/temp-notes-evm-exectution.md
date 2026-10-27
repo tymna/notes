@@ -1,0 +1,1 @@
+- client's [[EVM]] executes the contract's bytecode
